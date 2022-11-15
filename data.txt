@@ -1,1 +1,2 @@
 Learning Git push & pull command
+new line added from local machine
